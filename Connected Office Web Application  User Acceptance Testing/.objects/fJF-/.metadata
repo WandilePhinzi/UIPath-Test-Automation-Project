@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Home(1)",
+  "Type": "App",
+  "Id": "fJF-7mAS20-MzIQ6AtmOAQ",
+  "Reference": "IJWCLSNp7kab5Vj_nNkjJA/fJF-7mAS20-MzIQ6AtmOAQ",
+  "Created": "2024-09-08T19:32:32.9167168Z",
+  "Updated": "2024-09-08T19:32:32.9167168Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
